@@ -21,13 +21,8 @@ Um jogo interativo de console em C# que permite adotar Pokémons como mascotes v
 
 ## 🔧 Tecnologias Utilizadas
 
-- [C# .NET](https://learn.microsoft.com/dotnet/)
-- [RestSharp](https://restsharp.dev/) – para requisições HTTP
-- [Newtonsoft.Json](https://www.newtonsoft.com/json) – para parsing de JSON
-- [AutoMapper](https://automapper.org/) – para conversão de dados entre classes
+- [C# .NET]
+- [RestSharp] – para requisições HTTP
+- [Newtonsoft.Json] – para parsing de JSON
+- [AutoMapper] – para conversão de dados entre classes
 
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/tamagotchi-pokemon.git
