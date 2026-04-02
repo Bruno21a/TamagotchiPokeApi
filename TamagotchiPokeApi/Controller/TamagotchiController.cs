@@ -25,7 +25,7 @@ namespace TamagotchiPokeApi.Controller
             var config = new MapperConfiguration(cfg =>
             {
                 cfg.AddProfile<AutoMapperProfile>();
-            });
+            }, null);
 
             mapper = config.CreateMapper();
 
